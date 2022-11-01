@@ -56,12 +56,12 @@ const Projects = () => {
                 Formulario - Login
               </span>
               <div className="pt-8 text-center">
-                <a href="" target="_blank">
+                <a href="https://login-form-app-react.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/KvinPardo/clima-app-API">
+                <a href="https://github.com/KvinPardo/formulario-primero" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Código
                   </button>
@@ -80,12 +80,12 @@ const Projects = () => {
                 Bienes Raíces
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://venta-propiedades-page.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/KvinPardo/proyecto-venta-casas" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Código
                   </button>
@@ -103,12 +103,12 @@ const Projects = () => {
                 Página de Venta de Servicios
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://services-page-react.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/KvinPardo/proyecto-ventas" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Código
                   </button>
