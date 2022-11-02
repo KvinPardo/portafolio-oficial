@@ -4,10 +4,6 @@ import { Link } from "react-scroll";
 
 const Home = () => {
 
-  const handleClick = () => {
-    console.log('The link was clicked.');
-  }
-
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       {/* Container */}
