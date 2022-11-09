@@ -36,7 +36,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://cv-kevin-pardo.netlify.app/"
+              href="https://kevin-pardo-cv.netlify.app/"
               target="_blank"
               className="flex justify-center items-center gap-4 border shadow-2xl p-4 hover:scale-x-105 duration-500 my-8"
             >
