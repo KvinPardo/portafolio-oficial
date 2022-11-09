@@ -118,7 +118,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] ease-in-out duration-500 bg-[#999999]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://cv-kevin-pardo.netlify.app/"
+              href="https://kevin-pardo-cv.netlify.app/"
               target="_blank"
             >
               Resume <BsFillPersonLinesFill size={30} />
